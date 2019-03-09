@@ -13,8 +13,8 @@ this is where GitHub gets interesting for recruiters! Each and every developer u
   
     Contribution to projects
 
-People visiting the site will be able to know the candidates work in better way.
-  
+People visiting the site will be able to understand  the candidates proficiency of work and sutability for specific task by viewing actual github activity.
+
 We are building here an app which accepts a github username and returns a breakdown of that user's activity using the data provided by GitHub for that username.
 
 ## MVP
