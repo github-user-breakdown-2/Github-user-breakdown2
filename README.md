@@ -22,6 +22,10 @@ App displays most popular user-owned repositories. App displays most popular rep
 ## Dataset
 Github API - https://developer.github.com/v3/
 
+## Deployment
+Recommend to deploy your server to [Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs), and your front end to [netlify](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/). Both services provide free tiers and easy to use interfaces. 
+It is recommended that you keep your front end and backend codebases in separate GitHub repositories.
+
 ## Resources
 Notion links:
 
