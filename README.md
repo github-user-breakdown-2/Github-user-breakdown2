@@ -1,12 +1,19 @@
-# Github-user-breakdown 2
+# Github-user-breakdown2
 
 ## Overview
 
 GitHub is home to over 28 million developers working together to host and review code, manage projects, and build software together.
 this is where GitHub gets interesting for recruiters! Each and every developer using GitHub, a profile that is visible to the public. And on it you can find all sorts of fantastic information about that person such as :-
+
     Username
+ 
+ 
     Number of Repositories
+ 
+ 
     Languages working on
+ 
+ 
     Contribution to projects
 
 People visiting the site will be able to know the candidates work in better way.
