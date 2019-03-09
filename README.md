@@ -7,13 +7,10 @@ this is where GitHub gets interesting for recruiters! Each and every developer u
 
     Username
  
- 
     Number of Repositories
- 
- 
+  
     Languages working on
- 
- 
+  
     Contribution to projects
 
 People visiting the site will be able to know the candidates work in better way.
