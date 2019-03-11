@@ -36,3 +36,6 @@ Notion links:
 [Policies and Procedures](https://www.notion.so/Policies-and-Procedures-19e679fc1a284b668d8132dd8d7228cd)
 
 [Build Week Schedule and Daily Milestones](https://www.notion.so/Build-week-Schedule-and-Daily-Milestones-7f0aca2ad598459fa4492fdac9881d5b)
+
+## TDD
+https://docs.google.com/document/d/19dA9g-DkxS2OW83_VjmI9tGQjIhsnge2nK9rO5Xfjj8/edit#heading=h.4oicemcbd57
